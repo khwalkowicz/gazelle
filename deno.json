@@ -1,0 +1,22 @@
+{
+  "lint": {
+    "rules": {
+      "include": [
+        "ban-untagged-todo",
+        "camelcase",
+        "default-param-last",
+        "eqeqeq",
+        "explicit-function-return-type",
+        "explicit-module-boundary-types",
+        "no-const-assign",
+        "prefer-ascii"
+      ]
+    }
+  },
+  "fmt": {
+    "options": {
+      "singleQuote": true,
+      "lineWidth": 120
+    }
+  }
+}
